@@ -14,7 +14,7 @@ book.py # Contains the Book class
 dvd.py # Contains the DVD class
 LectureCD.py # Contains the LectureCD class
 magazine.py # Contains the Magazine class
-Main.py/ # Main file to run the program
+Main.py # Main file to run the program
 ```
 ---
 
