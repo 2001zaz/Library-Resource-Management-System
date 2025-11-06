@@ -9,13 +9,13 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** conce
 ## 🧩 Project Structure
 
 LibraryManagementSystem/
-│
-├── book.py # Contains the Book class
-├── dvd.py # Contains the DVD class
-├── LectureCD.py # Contains the LectureCD class
-├── magazine.py # Contains the Magazine class
-└── Main.py/ # Main file to run the program
-
+```
+book.py # Contains the Book class
+dvd.py # Contains the DVD class
+LectureCD.py # Contains the LectureCD class
+magazine.py # Contains the Magazine class
+Main.py/ # Main file to run the program
+```
 ---
 
 ## ⚙️ Features
